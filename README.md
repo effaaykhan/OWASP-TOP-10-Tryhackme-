@@ -14,3 +14,6 @@ This Repository contains the walkthrough of tryhackme's Owasp Top 10 Room.
 
 
 [TASK-13](https://github.com/effaaykhan/OWASP-TOP-10/blob/main/Task-13%3A%20XML%20Entity)
+
+
+[TASK-14](https://github.com/effaaykhan/OWASP-TOP-10/blob/main/Task-14%3A%20XML%20External%20Entity%20-%20DTD)
