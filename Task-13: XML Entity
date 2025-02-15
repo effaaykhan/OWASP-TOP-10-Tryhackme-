@@ -1,0 +1,11 @@
+Q1. Full form of XML
+Ans: Extensible Markup Language
+
+Q2. Is it compulsory to have XML prolog in XML documents?
+Ans: No
+
+Q3. Can we validate XML documents against a schema?
+Ans: Yes
+
+Q4. How can we specify XML version and encoding in XML document?
+Ans: XML prolog
