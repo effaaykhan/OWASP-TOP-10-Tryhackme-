@@ -1,0 +1,8 @@
+Q1. How do you define a new ELEMENT?
+Ans: !ELEMENT
+
+Q2. How do you define a ROOT element?
+Ans: !DOCTYPE
+
+Q3. How do you define a new ENTITY?
+Ans: !ENTITY
