@@ -1,0 +1,17 @@
+Q1. What strange text file is in the website root directory?
+Ans: drpepper.txt
+
+Q2. How many non-root/non-service/non-daemon users are there?
+Ans: 0
+
+Q3. What user is this app running as?
+Ans: www-data
+
+Q4. What is the user's shell set as?
+Ans: /usr/sbin/nologin
+
+Q5. What version of Ubuntu is running?
+Ans: 18.04.4
+
+Q6. Print out the MOTD.  What favorite beverage is shown?
+Ans: Dr Pepper
