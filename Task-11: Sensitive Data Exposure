@@ -1,0 +1,17 @@
+Have a look around the webapp. The developer has left themselves a note indicating that there is sensitive data in a specific directory. 
+
+Q1. What is the name of the mentioned directory?
+[HINT]: (Have a look at the source code on the /login page.)
+Ans: /assets
+
+Q2. Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?
+Ans: webapp.db
+
+Q3. Use the supporting material to access the sensitive data. What is the password hash of the admin user?
+Ans: 6eea9b7ef19179a06954edd0f6c05ceb
+
+Q4. Crack the hash. What is the admin's plaintext password?
+Ans: qwertyuiop
+
+Q5. Login as the admin. What is the flag?
+Ans: THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl} 
