@@ -1,0 +1,5 @@
+Q3: Look at other users notes. What is the flag?
+[HINT]: The URL contains ?note=1 - I wonder what happens if you change the parameter value? You might be able to access another users note..
+""" CHANGE PARAMETER TO note=0
+
+Ans: flag{fivefourthree}
