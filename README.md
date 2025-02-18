@@ -35,3 +35,9 @@ This Repository contains the walkthrough of tryhackme's Owasp Top 10 Room.
 
 
 [TASK-23](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-23%3A%20Insecure%20Deserialization%20-%20Deserialization)
+
+
+[TASK-24](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-24%3A%20Insecure%20Deserialization%20-%20Cookies)
+
+
+
