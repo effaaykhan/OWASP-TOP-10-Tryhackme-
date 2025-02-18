@@ -1,0 +1,7 @@
+Q1. 1st flag (cookie value).
+   [HINT]: Decode the session cookie of user on [CyberChef](https://cyberchef.org/) and decode the base64 string to get the first flag1.
+Ans: THM{good_old_base64_huh}
+
+Q2. 2nd flag (admin dashboard)
+   [HINT](Simply change the username to admin and hit enter to get the flag2.
+Ans: THM{heres_the_admin_flag}
