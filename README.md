@@ -29,3 +29,6 @@ This Repository contains the walkthrough of tryhackme's Owasp Top 10 Room.
 
 
 [TASK-20](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-20%3A%20Cross-Site%20Scripting)
+
+
+[TASK-21](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-21%3A%20Insecure%20Deserialization)
