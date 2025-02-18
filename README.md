@@ -20,3 +20,6 @@ This Repository contains the walkthrough of tryhackme's Owasp Top 10 Room.
 
 
 [TASK-16](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-16%3A%20XML%20External%20Entity%20-%20Exploiting)
+
+
+[TASK-18](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-18%3A%20Broken%20Access%20Control%20(IDOR%20Challenge))
