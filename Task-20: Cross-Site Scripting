@@ -1,0 +1,34 @@
+Q2. Navigate to http://MACHINE_IP/ in your browser and click on the "Reflected XSS" tab on the navbar; craft a reflected XSS payload that will cause a popup saying "Hello".
+ [HINT]: Add the following payload in the comment section: 
+      ''' 
+         <script>alert(“Hello”)</script>
+      '''
+Ans: ThereIsMoreToXSSThanYouThink
+
+Q3. On the same reflective page, craft a reflected XSS payload that will cause a popup with your machines IP address.
+  [HINT]: Add the following Payload:
+      '''
+         <script>alert(window.location.hostname)</script>
+      '''
+Ans: ReflectiveXss4TheWin
+
+Q4. Now navigate to http://MACHINE_IP/ in your browser and click on the "Stored XSS" tab on the navbar; make an account.
+    Then add a comment and see if you can insert some of your own HTML.
+  [HINT]: Add any HTML code in the comment section.You can find any html syntax from google.
+
+Ans: HTML_T4gs
+
+Q5. On the same page, create an alert popup box appear on the page with your document cookies.
+[HINT]: Use the following payload:
+     '''    
+       <script>alert(document.cookies)</script>
+     '''
+Ans: W3LL_D0N3_LVL2s
+
+Q6. Change “XSS Playground” to “I am a hacker” by adding a comment and using Javascript.
+  [HINT]: Using the hint provided, use this js code 
+      '''
+        <script>document.querySelector(‘#thm-title’).textContent = ‘I am a hacker’</script>
+      '''
+Ans: websites_can_be_easily_defaced_with_xss
+
