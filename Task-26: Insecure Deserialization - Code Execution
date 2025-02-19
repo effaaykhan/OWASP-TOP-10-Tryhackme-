@@ -1,0 +1,5 @@
+Q1. Find flag.txt.
+[HINT]: Just download the python file pickleme.py. run the file ''' python3 pickeme.py'''. You will get a token, copy the token content between quotes ' ' and paste the token into the encoded payload area under cookies section.
+Don't forget to start the reverse shell and change the ip address in the script to your ip address. Once the session has started then run the command ''' find / -name "*flag.txt*" 2>/dev/null. You will get the flag.txt
+
+Ans: 4a69a7ff9fd68
