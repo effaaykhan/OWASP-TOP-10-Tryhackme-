@@ -46,4 +46,7 @@ This Repository contains the walkthrough of tryhackme's Owasp Top 10 Room.
 [TASK-26](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-26%3A%20Insecure%20Deserialization%20-%20Code%20Execution)
 
 
+[TASK-29](https://github.com/effaaykhan/OWASP-TOP-10-Tryhackme-/blob/main/Task-29%3A%20Components%20With%20Known%20Vulnerabilities%20-%20Lab)
+
+
 
