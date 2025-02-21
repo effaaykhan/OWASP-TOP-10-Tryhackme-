@@ -1,0 +1,6 @@
+Q1. How many characters are in /etc/passwd (use wc -c /etc/passwd to get the answer)
+[HINT]: You know its a bookstore application, you should check for recent unauthenticated bookstore app rce's. After getting the exploit from the exploit.db then run the exploit with the following commnad:
+>'''
+     python3 exploit.py <target url>
+'''
+Ans: 1611
